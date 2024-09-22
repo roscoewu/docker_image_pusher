@@ -5,3 +5,7 @@ mysql:8.0.39
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+
+mcr.microsoft.com/dotnet/aspnet:8.0
+redis 
+redis-server
