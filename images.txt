@@ -8,3 +8,6 @@ mysql:8.0.39
 
 mcr.microsoft.com/dotnet/aspnet:8.0
 redis
+gitlab/gitlab-ce
+verdaccio/verdaccio
+loicsharma/baget
