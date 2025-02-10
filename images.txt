@@ -19,3 +19,4 @@ gitlab/gitlab-runner
 node:20
 nginx:latest
 ubuntu:latest
+postgres:17.2
